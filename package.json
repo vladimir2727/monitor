@@ -1,0 +1,9 @@
+{
+  "name": "linguistic-data-monitor",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Internal analytics tool for monitoring transcription workflow and latency metrics.",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}
